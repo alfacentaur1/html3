@@ -1,0 +1,62 @@
+.top-container{
+    background-color: #D8EFD3;
+    margin:0;
+    height:800px;
+    
+    
+}
+body{
+    margin:0;
+    text-align: center;
+    font-family:verdana, sans-serif ;
+}
+h1{
+    font-size :70px;
+    margin:0px;
+    padding:120px;
+    
+}
+
+h3{
+    margin:0;
+}
+
+.middle-container{
+    background-color: #D8EFD3;
+    margin:0;
+    padding:20px;
+    
+}
+
+.bottom-container{
+    padding:20px;
+    height:100px;
+    background-color: #55AD9B;
+    
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.img{
+    position: absolute;
+}
+
+.img2{
+    position:absolute;
+    right:100px;
+    top:80px;
+    right:300px;
+}
+
+.profile{
+    height:400px;
+    /*float:right; ---> wrapping the pic around text*/
+}
+.pic{
+    position:absolute;
+    top:980px;
+    right:645px;
+
+}
